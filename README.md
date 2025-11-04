@@ -29,7 +29,7 @@ Stay connected for new interview challenges, code walkthroughs, and explanations
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" alt="Instagram" />
   </a>
   &nbsp;
-  <a href="https://www.youtube.com/@Kavi's_Network" target="_blank">
+  <a href="https://www.youtube.com/@Kavis_Network" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30" alt="YouTube" />
   </a>
   &nbsp;
